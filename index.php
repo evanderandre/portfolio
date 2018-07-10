@@ -6,8 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" type="image" href="assets/img/icon.png">
-	<meta name="author" content="Tanislav Robert">
-	<meta name="description" content="KARMO is a creative and modern template for digital agencies">
+	<meta name="description" content="Andre Enriquez, Web Developer">
 
 	<!-- STYLES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
