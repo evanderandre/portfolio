@@ -42,9 +42,9 @@
 								</h3>
 						</div>
 
-						<div class="mouse">
+						<!-- <div class="mouse">
 								<div class="scroll"></div>
-						</div>
+						</div> -->
 				</section>
 				<!-- end box-intro -->
 		</div>
@@ -58,7 +58,7 @@
 						<img src="assets/img/aboutme.png" width="300"/>
 					</div>
 					<div class="km-space"></div>
-					<h5 class="lead">I am a Web Developer from Paranaque City and a fresh graduate of Polytechnic University of the Philippines. I have serious passion for web development, building excellent web applications that improve the lives of those around me. I specialize in creating websites for clients ranging from individuals and small-businesses.</h5>
+					<h5 class="lead">I am a Web Developer from Paranaque City and a graduate of Polytechnic University of the Philippines. I have serious passion for web development, building excellent web applications that improve the lives of those around me. I specialize in creating websites for clients ranging from individuals and small-businesses.</h5>
 			</div>
 		<!-- description text -->
 		</div>
@@ -103,7 +103,7 @@
 				</div>
 
 				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="pricing_plan" style="background-color:#33bbff;">
+					<div class="pricing_plan">
 						<div class="plan_title"><h6>Backend Development</h6></div>
 						<div class="plan_price">
 							<i class="fa fa-database" aria-hidden="true"></i>
@@ -144,9 +144,8 @@
 				<div class="row center">
 					<div class="section-title mb-100">
 						<div class="process-numbers">MY</div>
-						<h2>WORKS</h2>
-						<p class="module-subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua.</p>
+						<h2>Portfolio</h2>
+						<p class="module-subtitle"> <!-- Insert Text Here --></p>
 					</div>
 				</div>
 			</div>
@@ -177,7 +176,7 @@
 
 		</div>
 		</div>
-		<!-- end container -->
+		<!-- end container 
 	</section>
 	<!-- portfolio -->
 
@@ -240,9 +239,9 @@ contact section.</p>
                             <!-- <h4><span>Our mail and phone</span></h4> -->
                             <h3>Contacts</h3>
                             <p>
-                                <abbr title="Email">E:</abbr> enriquez.evander.andre@gmail.com
+                                <abbr title="Email">Email:</abbr> evander.andre.enriquez@gmail.com
                                 <br>
-                                <abbr title="Phone">P:</abbr> Not yet available.
+                                <abbr title="Phone">Phone:</abbr> 09099722238.
                             </p>
                         </div>
                     </div>
@@ -262,7 +261,7 @@ contact section.</p>
                     <!--end contact info-->
                 </div>
             <!-- CONTACT FORM -->
-            <div class="contact-form bottom">
+           <!--  <div class="contact-form bottom">
                 <form id="main-contact-form" name="contact-form" method="post" action="sendemail.php">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="form-group">
@@ -284,7 +283,7 @@ contact section.</p>
                     </div>
                 </div>
                 </form>
-            </div>
+            </div> -->
 		</div><!-- end container -->
 	</section>
 	<!-- Footer -->
