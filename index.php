@@ -211,7 +211,11 @@
 					<div class="section-title">
 
 						<!-- <h2 class="mb-50">GET IN TOUCH</h2> -->
-							<p class="module-subtitle">
+							<p class="module-subtitle"> 
+
+								<br>
+								<br>
+								<br>
 								<h2 class="mb-50">Get IN TOUCH</h2>
 									Wanna get in touch or talk about a project?
 									Feel free to contact me via email at 
