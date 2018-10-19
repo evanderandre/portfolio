@@ -207,13 +207,18 @@
 			<div class="row center">
 				<div class="col-md-8 col-md-offset-2 col-sm-12">
 					<div class="avatar"><img src="assets/img/andre.png"></div>
-					<div class="section-title">
-						<h2 class="mb-50">GET IN TOUCH</h2>
-						<p class="module-subtitle">Wanna get in touch or talk about a project?
-Feel free to contact me via email at <strong>enriquez.evander.andre@gmail.com</strong><br>
 
-or drop a line in the form at the 
-contact section.</p>
+					<div class="section-title">
+
+						<!-- <h2 class="mb-50">GET IN TOUCH</h2> -->
+							<p class="module-subtitle">
+								<h2 class="mb-50">Get IN TOUCH</h2>
+									Wanna get in touch or talk about a project?
+									Feel free to contact me via email at 
+								<strong>enriquez.evander.andre@gmail.com</strong><br>
+									or drop a line in the form at the 
+									contact section.
+							</p>
 					</div>
 				</div>
 			</div>
