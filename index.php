@@ -200,22 +200,22 @@
 
 
 
+
+
 		<!-- HERO SECTION  -->
 
 	<section class="contact_brick">
 		<div class="container mt-100">
 			<div class="row center">
+			<div class="avatar"><img src="assets/img/andre.png"></div>
 				<div class="col-md-8 col-md-offset-2 col-sm-12">
-					<div class="avatar"><img src="assets/img/andre.png"></div>
+					
 
 					<div class="section-title">
 
 						<!-- <h2 class="mb-50">GET IN TOUCH</h2> -->
 							<p class="module-subtitle"> 
 
-								<br>
-								<br>
-								<br>
 								<h2 class="mb-50">Get IN TOUCH</h2>
 									Wanna get in touch or talk about a project?
 									Feel free to contact me via email at 
