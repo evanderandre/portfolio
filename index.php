@@ -261,7 +261,7 @@ contact section.</p>
                     <!--end contact info-->
                 </div>
             <!-- CONTACT FORM -->
-           <!--  <div class="contact-form bottom">
+            <div class="contact-form bottom">
                 <form id="main-contact-form" name="contact-form" method="post" action="sendemail.php">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="form-group">
@@ -283,7 +283,7 @@ contact section.</p>
                     </div>
                 </div>
                 </form>
-            </div> -->
+            </div>
 		</div><!-- end container -->
 	</section>
 	<!-- Footer -->
